@@ -1,0 +1,6 @@
+*.pro*
+./build*
+*.o
+gauge972cmd
+vactest
+
